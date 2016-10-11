@@ -34,24 +34,22 @@ A área com imagem deve ter o tamanho igual ao tamanho da seção com o texto ut
 Não é preciso seguir essa estrutura, porém será muito vantajoso para você se conseguir usar essa estrutura sem mecher e apenas fazer que tenha a aparência da imagem abaixo.
 ```
 <section class="zigzag">
-	<div class="zigzag__wrapper zigzag--left">
-		<div class="zigzag__image">
-			
-		</div>
-		<article class="zigzag__content">
-			<h1>Titulo legal</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-		</article>
-	</div>	
-	<div class="zigzag__wrapper zigzag--right">
-		<div class="zigzag__image">
-			
-		</div>
-		<article class="zigzag__content">
-			<h1>Titulo legal</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat saepe nesciunt iusto, nobis eum possimus, cupiditate. Nemo sint voluptatibus quibusdam, temporibus, officia, quam reprehenderit hic laudantium, accusantium illum error.</p>
-		</article>
+	<div class="zigzag__image">
+		
 	</div>
+	<article class="zigzag__content">
+		<h1>Titulo legal</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+	</article>
+</section>	
+<section class="zigzag zigzag--right">
+	<div class="zigzag__image">
+		
+	</div>
+	<article class="zigzag__content">
+		<h1>Titulo legal</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis placeat saepe nesciunt iusto, nobis eum possimus, cupiditate. Nemo sint voluptatibus quibusdam, temporibus, officia, quam reprehenderit hic laudantium, accusantium illum error.</p>
+	</article>
 </section>
 
 ```
