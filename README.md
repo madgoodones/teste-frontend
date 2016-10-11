@@ -25,7 +25,7 @@ Iremos selecionar os participantes para uma entrevista que conseguir com sucesso
 
 ### Teste
 
-Construa a seção abaixo somente utilizando HTML e CSS.
+Construa a seção abaixo somente utilizando HTML e CSS, diferencial se fizer o uso do GULP e algum pre-processador css.
 
 ##### Observação
 A área com imagem deve ter o tamanho igual ao tamanho da seção com o texto utilizando height 100% e na versão responsiva abaixo de 768px deve ter height 230px, as imagens necessárias estão neste repositório.
