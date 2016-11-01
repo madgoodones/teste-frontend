@@ -29,9 +29,12 @@ Construa a seção abaixo somente utilizando HTML e CSS, diferencial se fizer o 
 
 ##### Observação
 A área com imagem deve ter o tamanho igual ao tamanho da seção com o texto utilizando height 100% e na versão responsiva abaixo de 768px deve ter height 230px, as imagens necessárias estão neste repositório.
+###### Não utilizar display flex !
 
 ###### Sugestão de estrutura
 Não é preciso seguir essa estrutura, porém será muito vantajoso para você se conseguir usar essa estrutura sem mecher e apenas fazer que tenha a aparência da imagem abaixo.
+
+
 ```
 <section class="zigzag">
 	<div class="zigzag__image">
